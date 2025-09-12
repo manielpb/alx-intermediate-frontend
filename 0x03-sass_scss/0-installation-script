@@ -1,0 +1,8 @@
+Installation Script
+
+Step 1: Check Node.js 
+	node -v
+	npm -v
+Step 2: Install Sass globally using 'sudo npm install -g sass'
+Step 3: Verify Sass installation
+	sass --version
